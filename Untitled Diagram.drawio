@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T06:31:03.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="J6oA46qMX0I6C7zjA8yG" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T06:31:57.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="XoT2X-CIQnq1fLZu9H9u" version="23.1.6" type="github">
   <diagram name="Page-1" id="IP7T4TeQ-1aNtwFL-fck">
-    <mxGraphModel dx="723" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gB0lq2E0Z8ZAQa5dsXp0-1" value="test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="-CzADEqpNE-FnDm8OQTk-1" value="&lt;b&gt;Start Wanek&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
